@@ -1,0 +1,43 @@
+<!DOCTYPE pdf>
+<html>
+<head>
+	<title> Pertemuan 2</title>
+</head>
+<body style="background-color: rgb(255,247,204);">
+<h1 style="text-align: center;">Tentang Saya</h1>
+<br>
+<h2> Biodata Diri
+	<img src="RQRQRQ" alt="Raqi Assaddama" Width = "250" height = "400" style="display: block;margin: auto; border: 1px solid black">
+	<br>
+	<table style="width: 100%">
+		<tr>
+			<td> <b> Nama </b> </td>
+			<td>Muhammad R'Raqi Assaddama Riyadi</td>
+		</tr>
+		<tr> 
+			<td><b> Tempat, Tanggal Lahir </b></td> 
+			<td>Bogor, 25 Januari 2004</td>
+		</tr>
+		<tr>
+			<td><b> Usia </b></td> 
+			<td>17 Tahun</td>
+		</tr>
+		<tr>s
+			<td><b> Hobby </b></td> 
+			<td>Menonton series atau film</td>
+		</tr>
+	</table>
+	<Br>
+</h2>
+<h2> How Do I Think About Online School in this Pandemic?
+	
+</h2>
+<p style="text-align: justify;">
+	Menurut saya, pembelajaran jarak jauh pada pandemi ini tidak efektif kemudian benar-benar melelahkan bagi tubuh serta mata dan juga membosankan namun juga dapat membuat siswa memiliki waktu santai lebih banyak. Pembelajaran jarak jauh menggunakan online meeting adalah yang masalah yang utama. Pembelajaran online menggunakan online meeting membuat saya lebih terpaksa dalam belajar terlebih ketika tidak memiliki dorongan untuk semangat belajar. saya harus bangun pada jam sekian untuk meeting, makan jam sekian hingga jam sekian kemudian meeting, belum lagi apabila ada guru yang mengambil waktu istirahat dengan alasan <i>"Tanggung materinya sedikit lagi"</i> menyebabkan pembelajaran semakin tidak efektif.
+
+</p>
+<p style="text-align: justify;">
+	Pembelajaran Jarak-Jauh yang menurut saya <i>lebih baik</i> adalah seperti pada saat sebelum tahun ajaran baru yaitu guru memberikan video pembelajaran dan tidak mengadakan online meeting. metode seperti itu membuat saya lebih <i>ikhlas</i> dalam belajar karena tidak mematok pada waktu yang telah ditentukan. Sejujurnya bagi diri saya sendiri, saya tidak memiliki keluhan untuk deadline tugas namun saja hanya online meeting benar-benar melelahkan. Apabila hanya menggunakan video pembelajaran, saya dapat belajar kapanpun yang saya inginkan dengan hanya menonton video tersebut.
+</p>
+</body>
+</html>
