@@ -1,0 +1,45 @@
+body { background-image: url(xar.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{text-align: center;
+	font-family: Arial;
+	font-size: 48px;
+	font-style: italic;
+	padding: 10px;
+	color: #838282	}
+
+img{display: block;
+	margin: auto;
+	cursor: wait;
+	border: 1px solid black}
+
+h2{text-align: center;
+	font-family: Arial;
+	font-size: 32px;
+	font-style: italic;
+	color: #89c2d7}
+
+table{font-family: calibri;
+	border-collapse: collapse;
+	width: 80%;
+	text-align: left; color: #000000;
+	font-size: 16px;
+	cursor: wait;
+	margin-left: 3cm;
+	margin-right: 3cm;
+	margin-top: 1cm;
+	margin-bottom: 0.2cm; }
+
+td{border: 3px solid #838282;
+	padding: 6px;}
+
+tr {background-color: #ffffff;
+	opacity: 75%;}
+
+p{margin-left: 3cm;
+	margin-right: 3cm;
+	margin-top: 0.5cm;
+	margin-bottom: 0.5cm;
+	text-align: justify; color: #ffffff}
