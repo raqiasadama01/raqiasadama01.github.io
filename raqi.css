@@ -72,3 +72,28 @@ height: 350px ; padding: 8px ; border: none;}
 
 img.dal {width: 467px ;
 height: 350px ; padding: 8px ; border: none;}
+
+h1.ant {align-items: center;
+font-size: 66px; 
+align-content: center; align-content: center; }
+
+main.banner{
+	height: 80vh;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 65px;
+}
+
+h1.banner {text-align: center;
+	font-family: Arial;
+	font-size: 56px;
+	font-style: normal;
+	padding-top: : 15px;
+	color: #838282;
+	margin-top: 2cm;
+	border: 2px;
+	border-color: #e7f2f8;	
+	background-color: #ecfdf1;
+}
